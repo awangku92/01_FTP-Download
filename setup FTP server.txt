@@ -1,0 +1,6 @@
+refer this to setup ftp:
+https://www.windowscentral.com/how-set-and-manage-ftp-server-windows-10
+
+running ftp server:
+cmd > ipconfig > ipv4 address
+go to iis > edit bindings > IP address (set ipv4 address)
